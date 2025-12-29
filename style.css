@@ -375,3 +375,10 @@ main {
     padding: 1rem 0.9rem 1.3rem;
   }
 }
+.article-photo {
+  max-width: 100%;
+  width: 400px;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
